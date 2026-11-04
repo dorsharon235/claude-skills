@@ -35,7 +35,53 @@
                                    ]
                     },
                     {
-                        "name":  "hyperframes",
+                        "name":  "hyperframes-blocks",
+                        "description":  "Skills from github.com/heygen-com/hyperframes",
+                        "source":  {
+                                       "source":  "git-subdir",
+                                       "url":  "https://github.com/heygen-com/hyperframes.git",
+                                       "path":  "registry/blocks"
+                                   },
+                        "strict":  false,
+                        "skills":  [
+                                       "./canopy-part-title",
+                                       "./code-slice-hero",
+                                       "./cuboid-carousel",
+                                       "./frost-sequence-camera-orbit",
+                                       "./glass-shard-title",
+                                       "./orbit-card",
+                                       "./wireframe-portal-title"
+                                   ]
+                    },
+                    {
+                        "name":  "hyperframes-skills-classic",
+                        "description":  "Earlier skills from github.com/heygen-com/hyperframes (version 207c8a4, since removed by the author)",
+                        "source":  {
+                                       "source":  "git-subdir",
+                                       "url":  "https://github.com/heygen-com/hyperframes.git",
+                                       "path":  "skills",
+                                       "sha":  "207c8a4daf6480d697f203784f1fd422727569e3"
+                                   },
+                        "strict":  false,
+                        "skills":  [
+                                       "./embedded-captions",
+                                       "./faceless-explainer",
+                                       "./general-video",
+                                       "./hyperframes-animation",
+                                       "./hyperframes-audio",
+                                       "./hyperframes-core",
+                                       "./hyperframes-creative",
+                                       "./hyperframes-keyframes",
+                                       "./hyperframes-studio",
+                                       "./motion-graphics",
+                                       "./music-to-video",
+                                       "./product-launch-video",
+                                       "./pr-to-video",
+                                       "./talking-head-recut"
+                                   ]
+                    },
+                    {
+                        "name":  "hyperframes-skills",
                         "description":  "Skills from github.com/heygen-com/hyperframes",
                         "source":  {
                                        "source":  "git-subdir",
@@ -44,10 +90,13 @@
                                    },
                         "strict":  false,
                         "skills":  [
+                                       "./figma",
                                        "./hyperframes",
                                        "./hyperframes-cli",
                                        "./hyperframes-registry",
-                                       "./media-use"
+                                       "./media-use",
+                                       "./remotion-to-hyperframes",
+                                       "./slideshow"
                                    ]
                     },
                     {
