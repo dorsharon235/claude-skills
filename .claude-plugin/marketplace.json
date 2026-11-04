@@ -114,13 +114,13 @@
                                    ]
                     },
                     {
-                        "name":  "taste-skill-classic-b9ca2fd",
-                        "description":  "Earlier skills from github.com/Leonxlnx/taste-skill (version b9ca2fd, since removed by the author)",
+                        "name":  "taste-skill-classic-e04409a",
+                        "description":  "Earlier skills from github.com/Leonxlnx/taste-skill (version e04409a, since removed by the author)",
                         "source":  {
                                        "source":  "git-subdir",
                                        "url":  "https://github.com/Leonxlnx/taste-skill.git",
                                        "path":  "skills",
-                                       "sha":  "b9ca2fd8047f4c72d7da90ebc1c1203e57c72cd2"
+                                       "sha":  "e04409a461022e1b9d0e898eac6b9224e2b9dc4e"
                                    },
                         "strict":  false,
                         "skills":  [
@@ -131,11 +131,11 @@
                                        "./imagegen-frontend-web",
                                        "./image-to-code-skill",
                                        "./minimalist-skill",
+                                       "./output-skill",
                                        "./redesign-skill",
                                        "./soft-skill",
                                        "./stitch-skill",
-                                       "./taste-skill-v1",
-                                       "./taste-skill-v2-experimental"
+                                       "./taste-skill-v1"
                                    ]
                     },
                     {
@@ -152,17 +152,17 @@
                                    ]
                     },
                     {
-                        "name":  "taste-skill-classic-a206bbf",
-                        "description":  "Earlier skills from github.com/Leonxlnx/taste-skill (version a206bbf, since removed by the author)",
+                        "name":  "taste-skill-classic-b9ca2fd",
+                        "description":  "Earlier skills from github.com/Leonxlnx/taste-skill (version b9ca2fd, since removed by the author)",
                         "source":  {
                                        "source":  "git-subdir",
                                        "url":  "https://github.com/Leonxlnx/taste-skill.git",
                                        "path":  "skills",
-                                       "sha":  "a206bbf75a9d80554c0de17c1198ee2fbbc555aa"
+                                       "sha":  "b9ca2fd8047f4c72d7da90ebc1c1203e57c72cd2"
                                    },
                         "strict":  false,
                         "skills":  [
-                                       "./output-skill"
+                                       "./taste-skill-v2-experimental"
                                    ]
                     },
                     {

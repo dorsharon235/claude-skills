@@ -1,3 +1,66 @@
 {
-  "impeccable": { "repo": "pbakaus/impeccable", "dir": ".claude/skills/impeccable" }
+  "impeccable": {
+    "repo": "pbakaus/impeccable",
+    "dir": ".claude/skills/impeccable"
+  },
+  "brandkit": {
+    "repo": "Leonxlnx/taste-skill",
+    "dir": "skills/brandkit",
+    "sha": "e04409a461022e1b9d0e898eac6b9224e2b9dc4e"
+  },
+  "industrial-brutalist-ui": {
+    "repo": "Leonxlnx/taste-skill",
+    "dir": "skills/brutalist-skill",
+    "sha": "e04409a461022e1b9d0e898eac6b9224e2b9dc4e"
+  },
+  "gpt-taste": {
+    "repo": "Leonxlnx/taste-skill",
+    "dir": "skills/gpt-tasteskill",
+    "sha": "e04409a461022e1b9d0e898eac6b9224e2b9dc4e"
+  },
+  "image-to-code": {
+    "repo": "Leonxlnx/taste-skill",
+    "dir": "skills/image-to-code-skill",
+    "sha": "e04409a461022e1b9d0e898eac6b9224e2b9dc4e"
+  },
+  "imagegen-frontend-mobile": {
+    "repo": "Leonxlnx/taste-skill",
+    "dir": "skills/imagegen-frontend-mobile",
+    "sha": "e04409a461022e1b9d0e898eac6b9224e2b9dc4e"
+  },
+  "imagegen-frontend-web": {
+    "repo": "Leonxlnx/taste-skill",
+    "dir": "skills/imagegen-frontend-web",
+    "sha": "e04409a461022e1b9d0e898eac6b9224e2b9dc4e"
+  },
+  "minimalist-ui": {
+    "repo": "Leonxlnx/taste-skill",
+    "dir": "skills/minimalist-skill",
+    "sha": "e04409a461022e1b9d0e898eac6b9224e2b9dc4e"
+  },
+  "full-output-enforcement": {
+    "repo": "Leonxlnx/taste-skill",
+    "dir": "skills/output-skill",
+    "sha": "e04409a461022e1b9d0e898eac6b9224e2b9dc4e"
+  },
+  "redesign-existing-projects": {
+    "repo": "Leonxlnx/taste-skill",
+    "dir": "skills/redesign-skill",
+    "sha": "e04409a461022e1b9d0e898eac6b9224e2b9dc4e"
+  },
+  "high-end-visual-design": {
+    "repo": "Leonxlnx/taste-skill",
+    "dir": "skills/soft-skill",
+    "sha": "e04409a461022e1b9d0e898eac6b9224e2b9dc4e"
+  },
+  "stitch-design-taste": {
+    "repo": "Leonxlnx/taste-skill",
+    "dir": "skills/stitch-skill",
+    "sha": "e04409a461022e1b9d0e898eac6b9224e2b9dc4e"
+  },
+  "design-taste-frontend-v1": {
+    "repo": "Leonxlnx/taste-skill",
+    "dir": "skills/taste-skill-v1",
+    "sha": "e04409a461022e1b9d0e898eac6b9224e2b9dc4e"
+  }
 }
