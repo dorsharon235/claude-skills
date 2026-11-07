@@ -66,5 +66,9 @@
   "genny": {
     "repo": "ogomez92/genny",
     "dir": "skill/genny"
+  },
+  "improve-project": {
+    "repo": "dorsharon235/claude-skills",
+    "dir": "own-skills/improve-project"
   }
 }

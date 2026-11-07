@@ -11,6 +11,7 @@ A list of the Claude skills I use. Nothing is copied here - every skill installs
 Then install any of these, or pick them from the `/plugin` menu:
 
 ```
+/plugin install claude-skills@dor-sharon
 /plugin install emilkowalski-skills@dor-sharon
 /plugin install hyperframes-blocks@dor-sharon
 /plugin install hyperframes-skills-classic@dor-sharon
@@ -30,6 +31,7 @@ Then install any of these, or pick them from the `/plugin` menu:
 
 | Package | Author repo | Skills |
 |---|---|---|
+| claude-skills | [dorsharon235/claude-skills](https://github.com/dorsharon235/claude-skills) | improve-project |
 | emilkowalski-skills | [emilkowalski/skills](https://github.com/emilkowalski/skills) | animate, animate-expo, animation-performance, animation-vocabulary, apple-design, ask-sonner, break-ui, emil-design-eng, find-animation-opportunities, improve-animations, mobile-native, pick-ui-library, prototype, review-animations, write-swift |
 | hyperframes-blocks | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | canopy-part-title, code-slice-hero, cuboid-carousel, frost-sequence-camera-orbit, glass-shard-title, orbit-card, wireframe-portal-title |
 | hyperframes-skills-classic | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | embedded-captions, faceless-explainer, general-video, hyperframes-animation, hyperframes-audio, hyperframes-core, hyperframes-creative, hyperframes-keyframes, hyperframes-studio, motion-graphics, music-to-video, product-launch-video, pr-to-video, talking-head-recut |

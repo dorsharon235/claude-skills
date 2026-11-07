@@ -8,6 +8,19 @@
                  },
     "plugins":  [
                     {
+                        "name":  "claude-skills",
+                        "description":  "Skills from github.com/dorsharon235/claude-skills",
+                        "source":  {
+                                       "source":  "git-subdir",
+                                       "url":  "https://github.com/dorsharon235/claude-skills.git",
+                                       "path":  "own-skills"
+                                   },
+                        "strict":  false,
+                        "skills":  [
+                                       "./improve-project"
+                                   ]
+                    },
+                    {
                         "name":  "emilkowalski-skills",
                         "description":  "Skills from github.com/emilkowalski/skills",
                         "source":  {
