@@ -62,5 +62,9 @@
     "repo": "Leonxlnx/taste-skill",
     "dir": "skills/taste-skill-v1",
     "sha": "e04409a461022e1b9d0e898eac6b9224e2b9dc4e"
+  },
+  "genny": {
+    "repo": "ogomez92/genny",
+    "dir": "skill/genny"
   }
 }

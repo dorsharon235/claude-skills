@@ -166,6 +166,47 @@
                                    ]
                     },
                     {
+                        "name":  "roblox-suite",
+                        "description":  "Skills from github.com/nonlooped/roblox-suite",
+                        "source":  {
+                                       "source":  "git-subdir",
+                                       "url":  "https://github.com/nonlooped/roblox-suite.git",
+                                       "path":  ""
+                                   },
+                        "strict":  false,
+                        "skills":  [
+                                       "./roblox",
+                                       "./roblox-animation",
+                                       "./roblox-audio",
+                                       "./roblox-core",
+                                       "./roblox-datastores",
+                                       "./roblox-gamepasses",
+                                       "./roblox-mcp",
+                                       "./roblox-networking",
+                                       "./roblox-npcs",
+                                       "./roblox-open-cloud",
+                                       "./roblox-physics",
+                                       "./roblox-rojo",
+                                       "./roblox-teleport",
+                                       "./roblox-testing",
+                                       "./roblox-user-interfaces",
+                                       "./roblox-vfx"
+                                   ]
+                    },
+                    {
+                        "name":  "genny",
+                        "description":  "Skills from github.com/ogomez92/genny",
+                        "source":  {
+                                       "source":  "git-subdir",
+                                       "url":  "https://github.com/ogomez92/genny.git",
+                                       "path":  "skill"
+                                   },
+                        "strict":  false,
+                        "skills":  [
+                                       "./genny"
+                                   ]
+                    },
+                    {
                         "name":  "impeccable",
                         "description":  "Skills from github.com/pbakaus/impeccable",
                         "source":  {
@@ -176,6 +217,80 @@
                         "strict":  false,
                         "skills":  [
                                        "./impeccable"
+                                   ]
+                    },
+                    {
+                        "name":  "roblox-brain-design",
+                        "description":  "Skills from github.com/TabooHarmony/roblox-brain",
+                        "source":  {
+                                       "source":  "git-subdir",
+                                       "url":  "https://github.com/TabooHarmony/roblox-brain.git",
+                                       "path":  "skills/design"
+                                   },
+                        "strict":  false,
+                        "skills":  [
+                                       "./roblox-analytics",
+                                       "./roblox-game-design",
+                                       "./roblox-growth-design",
+                                       "./roblox-monetization",
+                                       "./roblox-player-psychology"
+                                   ]
+                    },
+                    {
+                        "name":  "roblox-brain-gameplay",
+                        "description":  "Skills from github.com/TabooHarmony/roblox-brain",
+                        "source":  {
+                                       "source":  "git-subdir",
+                                       "url":  "https://github.com/TabooHarmony/roblox-brain.git",
+                                       "path":  "skills/gameplay"
+                                   },
+                        "strict":  false,
+                        "skills":  [
+                                       "./roblox-animation-vfx",
+                                       "./roblox-building",
+                                       "./roblox-camera",
+                                       "./roblox-gui",
+                                       "./roblox-input",
+                                       "./roblox-lighting",
+                                       "./roblox-localization",
+                                       "./roblox-npc-ai"
+                                   ]
+                    },
+                    {
+                        "name":  "roblox-brain-core",
+                        "description":  "Skills from github.com/TabooHarmony/roblox-brain",
+                        "source":  {
+                                       "source":  "git-subdir",
+                                       "url":  "https://github.com/TabooHarmony/roblox-brain.git",
+                                       "path":  "skills/core"
+                                   },
+                        "strict":  false,
+                        "skills":  [
+                                       "./roblox-architecture",
+                                       "./roblox-collaboration-mode",
+                                       "./roblox-data",
+                                       "./roblox-luau-core",
+                                       "./roblox-luau-patterns",
+                                       "./roblox-luau-types",
+                                       "./roblox-performance",
+                                       "./roblox-security",
+                                       "./roblox-server-data"
+                                   ]
+                    },
+                    {
+                        "name":  "roblox-brain-tools",
+                        "description":  "Skills from github.com/TabooHarmony/roblox-brain",
+                        "source":  {
+                                       "source":  "git-subdir",
+                                       "url":  "https://github.com/TabooHarmony/roblox-brain.git",
+                                       "path":  "skills/tools"
+                                   },
+                        "strict":  false,
+                        "skills":  [
+                                       "./roblox-cloud",
+                                       "./roblox-publish-checklist",
+                                       "./roblox-studio-mcp",
+                                       "./roblox-tooling"
                                    ]
                     }
                 ]
