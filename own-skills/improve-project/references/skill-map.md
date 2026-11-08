@@ -1,6 +1,6 @@
 # Skill map — need → skill
 
-Prefer skills already installed (check the live inventory first; this file can be out of date). "התקנה" is only for skills that are missing. Every install = scan first (see SKILL.md → Safety).
+Curated hints only. The live inventory (`scripts/inventory.py`, phase 2) is the source of truth for what is installed; when they differ, trust the inventory and fix this file. "התקנה" is only for skills that are missing. Every install = scan first (see SKILL.md → Safety).
 
 ## Websites, visuals, UI
 | Need | Installed skill (use first) | If missing — install |

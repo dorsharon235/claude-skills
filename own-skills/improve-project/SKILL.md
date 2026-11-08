@@ -32,15 +32,16 @@ Goal: know the project better than its owner remembers it.
 
 Goal: use the best tool already on this machine for each job, and know what is missing.
 
-1. Inventory what is installed, with descriptions:
+1. Build the live inventory of EVERYTHING installed on this machine, from all four sources (own skills, this project's `.claude/skills`, installed plugins, and the skills/plugins that come with the Claude account), each with its exact call name and description:
    ```bash
-   for f in ~/.claude/skills/*/SKILL.md .claude/skills/*/SKILL.md; do [ -f "$f" ] && { echo "== $f"; sed -n '1,8p' "$f" | grep -E '^(name|description):' | cut -c1-300; }; done
-   claude plugin list 2>/dev/null
+   PYTHONIOENCODING=utf-8 python -I ~/.claude/skills/improve-project/scripts/inventory.py --project "$PWD" > improve-inventory.md; head -1 improve-inventory.md
    ```
-   Also look at the skills listed in your own system prompt.
-2. Map project needs → skills using `references/skill-map.md`. For every need write: הצורך · הסקיל שמתאים · למה.
-3. If a strong skill for a need is NOT installed, name it with its install command from `references/skill-map.md`. Do not install anything in this phase. Installing is part of the plan in phase 4, and every new skill gets scanned first (see "Safety").
-4. Load (invoke) the chosen skills before you use their domain: e.g. the design skill before judging visuals, the accessibility skill before the accessibility pass. Follow each loaded skill's own rules.
+   It writes `improve-inventory.md` next to the report in the project root (it is regenerated every run). Read the whole table (use Grep on it by need if it is long). This is the source of truth for what exists. Cross-check with the skills listed in your own system prompt: a skill listed there but missing from the table (or the reverse) — trust what you can actually invoke, and mention the gap in the report.
+2. Write the project's needs from phase 1 (by project type, stack, audience and the personal data it touches). For every need, search the inventory for ALL installed skills that fit (by description, not only by name), then pick the best one or two. `references/skill-map.md` is a curated hint list of good pairings; the inventory wins when they differ. For every need write: הצורך · הסקיל שמתאים (exact call name) · למה.
+   Needs to always consider, when relevant: design/UI, UX copy, accessibility, motion, performance, content & SEO, **security** (logins, forms, APIs, payments, secrets, dependencies), legal, and the domain itself (games → the `roblox*` skills, video → hyperframes / ffmpeg-skill / motionmaxxing, sound → genny / sfxmint, documents → docx/xlsx/pptx/pdf, data → data:*).
+3. Only if no installed skill covers a need, name the strongest missing one with its install command (from `references/skill-map.md`, or the skills site https://claude.ai/artifact/6StZrCyzpSqfDb7tKLyTUD#more). Do not install anything in this phase. Installing is part of the plan in phase 4, and every new skill gets scanned first (see "Safety").
+4. Put the result in the report as a short table: צורך · סקיל מותקן שבחרתי · למה · (חסר? מה להתקין). Say how many skills are installed in total and how many fit this project.
+5. Load (invoke) the chosen skills before you use their domain: e.g. the design skill before judging visuals, the accessibility skill before the accessibility pass. Follow each loaded skill's own rules.
 
 ### Phase 3 — Live it as a customer + check the law
 
