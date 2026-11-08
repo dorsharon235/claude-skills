@@ -25,7 +25,7 @@ Prefer skills already installed (check the live inventory first; this file can b
 |---|---|---|
 | CRO, copy, landing page | `marketing:content-creation`, `marketing:draft-content` | `npx skills add coreyhaines31/marketingskills` |
 | SEO | `marketing:seo-audit` | `npx skills add Illyism/seo-skills` |
-| Text sounds AI-written | (humanizer if installed) | `/plugin marketplace add blader/humanizer` + `/plugin install humanizer@humanizer` |
+| Text sounds AI-written | `humanizer:humanizer` | — |
 | Brand review | `marketing:brand-review`, `brandkit` | — |
 
 ## Video, sound, media
@@ -33,17 +33,21 @@ Prefer skills already installed (check the live inventory first; this file can b
 |---|---|---|
 | Make / edit video from code | `hyperframes`, `hyperframes-cli`, `hyperframes-registry`, `media-use` | `npx skills add remotion-dev/skills` |
 | Launch video for the project | `brag`, `brag-slim` | — |
-| Edit real footage | `anthropic-skills:edit-reel`, `anthropic-skills:video-studio` | `npx ffmpeg-skill` |
-| Video looks amateur | — | motionmaxxing (`git clone https://github.com/Tejashmakwana/motionmaxxing ~/.claude/skills/motionmaxxing`) |
-| Sound effects | — | sfxmint (`/plugin install sfxmint --marketplace sfxmint/sfxmint-mcp`) |
+| Edit real footage | `ffmpeg-skill`, `anthropic-skills:edit-reel`, `anthropic-skills:video-studio` | — |
+| Video looks amateur / promo film | `motionmaxxing` | — |
+| Sound effects | `sfxmint:sfxmint` (free CC0 library), `genny` (generate) | — |
 | UI sounds on a site | — | `npx skills add dannyjpwilliams/ui-sound-design-skill` |
 
 ## Games (Roblox)
 | Need | Installed | If missing |
 |---|---|---|
-| Roblox Studio knowledge | Roblox Studio MCP skills | `npx skills add TabooHarmony/roblox-brain` |
-| Luau code quality | — | `npx skills add nonlooped/roblox-suite` |
-| Game sounds | — | genny (`git clone https://github.com/ogomez92/genny` + `python install.py`) |
+| Any Roblox task (entry point, routes to the rest) | `roblox` (41 roblox-* skills installed: roblox-brain + roblox-suite) | — |
+| Game design, retention, monetization | `roblox-game-design`, `roblox-player-psychology`, `roblox-monetization`, `roblox-analytics` | — |
+| Working in Studio | `roblox-studio-mcp`, `roblox-building`, `roblox-gui`, `roblox-npc-ai` | — |
+| Code, data, speed | `roblox-luau-core`, `roblox-datastores`, `roblox-performance`, `roblox-testing` | — |
+| Exploits / cheating | `roblox-security` | — |
+| Before publishing | `roblox-publish-checklist` | — |
+| Game sounds and music | `genny` | — |
 
 ## Documents, decks, data
 | Need | Installed | If missing |
@@ -55,9 +59,13 @@ Prefer skills already installed (check the live inventory first; this file can b
 ## Engineering quality
 | Need | Installed | If missing |
 |---|---|---|
-| Bugs in the code | `code-review` | `/plugin install superpowers@claude-plugins-official` |
+| Bugs in the code | `code-review`, `superpowers:systematic-debugging` | — |
 | Simplify code | `simplify` | — |
-| Security | `security-review` | `npx skills add https://github.com/cloudflare/security-audit-skill` |
+| Deep security audit (whole project, verified findings) | `security-audit` (Cloudflare) | — |
+| Risky defaults: debug on, fallback secrets, weak crypto | `insecure-defaults:audit` (Trail of Bits) | — |
+| Vulnerable / abandoned packages | `supply-chain-risk-auditor:supply-chain-risk-auditor` (Trail of Bits) | — |
+| Automatic code scan | `static-analysis:semgrep`, `static-analysis:codeql` (Trail of Bits) | needs `pip install semgrep` (not installed yet) |
+| Review of recent changes only | `security-review` (built in) | — |
 | Vibe-coded app holes | — | `npx skills add https://github.com/raroque/vibe-security-skill --skill vibe-security` |
 
 ## Research
@@ -66,4 +74,6 @@ Prefer skills already installed (check the live inventory first; this file can b
 | Competitors, market, what users say | `anthropic-skills:deep-research`, `product-management:competitive-brief` | `/plugin marketplace add mvanhorn/last30days-skill` |
 | User research synthesis | `design:user-research`, `design:research-synthesis` | — |
 
-Full catalogue with explanations (120 skills, 12 topics): https://claude.ai/artifact/6StZrCyzpSqfDb7tKLyTUD#more
+Full catalogue: installed toolbox (79 skills, with how to run each) + 120 more from GitHub: https://claude.ai/artifact/6StZrCyzpSqfDb7tKLyTUD
+
+Updated 2026-11-08. Whenever a skill is installed or removed on this machine, update this table in the same step (Dor's standing order).

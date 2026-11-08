@@ -58,6 +58,7 @@ This is the heart of the job. Use the product, don't just read the code.
 - חוויה (UX): clarity of the main action, number of steps, copy, trust signals, errors that explain themselves.
 - נגישות: keyboard, focus, contrast, alt text, labels, screen reader (WCAG 2.1 AA as the bar).
 - ביצועים ויציבות: load time, broken links, console errors, broken images, mobile layout overflow.
+- אבטחה: when the project has code that runs on a server, a login, a form, an API, payments, secrets or dependencies — use `security-audit` in guidance mode for the main risks (full audit mode only if the user asked), plus `insecure-defaults:audit` and `supply-chain-risk-auditor`. Read-only on the code; never probe the live site. Security findings go in the report's legal/risk section when they expose personal data.
 - תוכן: spelling, tone, Hebrew quality, outdated info.
 
 **3c. Israeli law check** — follow `references/israeli-law.md` exactly.
