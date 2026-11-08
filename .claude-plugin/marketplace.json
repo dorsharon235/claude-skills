@@ -8,6 +8,19 @@
                  },
     "plugins":  [
                     {
+                        "name":  "security-audit-skill",
+                        "description":  "Skills from github.com/cloudflare/security-audit-skill",
+                        "source":  {
+                                       "source":  "git-subdir",
+                                       "url":  "https://github.com/cloudflare/security-audit-skill.git",
+                                       "path":  "skills"
+                                   },
+                        "strict":  false,
+                        "skills":  [
+                                       "./security-audit"
+                                   ]
+                    },
+                    {
                         "name":  "claude-skills",
                         "description":  "Skills from github.com/dorsharon235/claude-skills",
                         "source":  {

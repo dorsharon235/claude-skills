@@ -11,6 +11,7 @@ A list of the Claude skills I use. Nothing is copied here - every skill installs
 Then install any of these, or pick them from the `/plugin` menu:
 
 ```
+/plugin install security-audit-skill@dor-sharon
 /plugin install claude-skills@dor-sharon
 /plugin install emilkowalski-skills@dor-sharon
 /plugin install hyperframes-blocks@dor-sharon
@@ -31,6 +32,7 @@ Then install any of these, or pick them from the `/plugin` menu:
 
 | Package | Author repo | Skills |
 |---|---|---|
+| security-audit-skill | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | security-audit |
 | claude-skills | [dorsharon235/claude-skills](https://github.com/dorsharon235/claude-skills) | improve-project |
 | emilkowalski-skills | [emilkowalski/skills](https://github.com/emilkowalski/skills) | animate, animate-expo, animation-performance, animation-vocabulary, apple-design, ask-sonner, break-ui, emil-design-eng, find-animation-opportunities, improve-animations, mobile-native, pick-ui-library, prototype, review-animations, write-swift |
 | hyperframes-blocks | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | canopy-part-title, code-slice-hero, cuboid-carousel, frost-sequence-camera-orbit, glass-shard-title, orbit-card, wireframe-portal-title |
