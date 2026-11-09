@@ -322,9 +322,8 @@
                         "name":  "anatomy",
                         "description":  "Skills from github.com/wheresryan22/anatomy",
                         "source":  {
-                                       "source":  "git-subdir",
-                                       "url":  "https://github.com/wheresryan22/anatomy.git",
-                                       "path":  "skills/tools"
+                                       "source":  "url",
+                                       "url":  "https://github.com/wheresryan22/anatomy.git"
                                    },
                         "strict":  false,
                         "skills":  [
