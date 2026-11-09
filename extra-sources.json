@@ -70,5 +70,9 @@
   "improve-project": {
     "repo": "dorsharon235/claude-skills",
     "dir": "own-skills/improve-project"
+  },
+  "unslop": {
+    "repo": "heydamir/unslop",
+    "dir": "skills/unslop"
   }
 }

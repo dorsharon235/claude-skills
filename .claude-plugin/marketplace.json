@@ -61,6 +61,19 @@
                                    ]
                     },
                     {
+                        "name":  "unslop",
+                        "description":  "Skills from github.com/heydamir/unslop",
+                        "source":  {
+                                       "source":  "git-subdir",
+                                       "url":  "https://github.com/heydamir/unslop.git",
+                                       "path":  "skills"
+                                   },
+                        "strict":  false,
+                        "skills":  [
+                                       "./unslop"
+                                   ]
+                    },
+                    {
                         "name":  "hyperframes-blocks",
                         "description":  "Skills from github.com/heygen-com/hyperframes",
                         "source":  {
@@ -219,6 +232,19 @@
                                    ]
                     },
                     {
+                        "name":  "hallmark",
+                        "description":  "Skills from github.com/nutlope/hallmark",
+                        "source":  {
+                                       "source":  "git-subdir",
+                                       "url":  "https://github.com/nutlope/hallmark.git",
+                                       "path":  "skills"
+                                   },
+                        "strict":  false,
+                        "skills":  [
+                                       "./hallmark"
+                                   ]
+                    },
+                    {
                         "name":  "genny",
                         "description":  "Skills from github.com/ogomez92/genny",
                         "source":  {
@@ -316,6 +342,18 @@
                                        "./roblox-publish-checklist",
                                        "./roblox-studio-mcp",
                                        "./roblox-tooling"
+                                   ]
+                    },
+                    {
+                        "name":  "video-shotcraft",
+                        "description":  "Skills from github.com/Vincentwei1021/video-shotcraft",
+                        "source":  {
+                                       "source":  "url",
+                                       "url":  "https://github.com/Vincentwei1021/video-shotcraft.git"
+                                   },
+                        "strict":  false,
+                        "skills":  [
+                                       "./"
                                    ]
                     },
                     {
