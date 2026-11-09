@@ -195,9 +195,8 @@
                         "name":  "roblox-suite",
                         "description":  "Skills from github.com/nonlooped/roblox-suite",
                         "source":  {
-                                       "source":  "git-subdir",
-                                       "url":  "https://github.com/nonlooped/roblox-suite.git",
-                                       "path":  ""
+                                       "source":  "url",
+                                       "url":  "https://github.com/nonlooped/roblox-suite.git"
                                    },
                         "strict":  false,
                         "skills":  [
