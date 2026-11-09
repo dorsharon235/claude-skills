@@ -28,6 +28,7 @@ Then install any of these, or pick them from the `/plugin` menu:
 /plugin install roblox-brain-gameplay@dor-sharon
 /plugin install roblox-brain-core@dor-sharon
 /plugin install roblox-brain-tools@dor-sharon
+/plugin install anatomy@dor-sharon
 ```
 
 | Package | Author repo | Skills |
@@ -49,3 +50,4 @@ Then install any of these, or pick them from the `/plugin` menu:
 | roblox-brain-gameplay | [TabooHarmony/roblox-brain](https://github.com/TabooHarmony/roblox-brain) | roblox-animation-vfx, roblox-building, roblox-camera, roblox-gui, roblox-input, roblox-lighting, roblox-localization, roblox-npc-ai |
 | roblox-brain-core | [TabooHarmony/roblox-brain](https://github.com/TabooHarmony/roblox-brain) | roblox-architecture, roblox-collaboration-mode, roblox-data, roblox-luau-core, roblox-luau-patterns, roblox-luau-types, roblox-performance, roblox-security, roblox-server-data |
 | roblox-brain-tools | [TabooHarmony/roblox-brain](https://github.com/TabooHarmony/roblox-brain) | roblox-cloud, roblox-publish-checklist, roblox-studio-mcp, roblox-tooling |
+| anatomy | [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | whatsapp |

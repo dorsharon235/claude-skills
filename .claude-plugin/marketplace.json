@@ -317,6 +317,19 @@
                                        "./roblox-studio-mcp",
                                        "./roblox-tooling"
                                    ]
+                    },
+                    {
+                        "name":  "anatomy",
+                        "description":  "Skills from github.com/wheresryan22/anatomy",
+                        "source":  {
+                                       "source":  "git-subdir",
+                                       "url":  "https://github.com/wheresryan22/anatomy.git",
+                                       "path":  "skills/tools"
+                                   },
+                        "strict":  false,
+                        "skills":  [
+                                       "./"
+                                   ]
                     }
                 ]
 }
