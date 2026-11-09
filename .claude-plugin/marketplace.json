@@ -271,6 +271,18 @@
                                    ]
                     },
                     {
+                        "name":  "rossark-motion-skill",
+                        "description":  "Skills from github.com/rossark0/rossark-motion-skill",
+                        "source":  {
+                                       "source":  "url",
+                                       "url":  "https://github.com/rossark0/rossark-motion-skill.git"
+                                   },
+                        "strict":  false,
+                        "skills":  [
+                                       "./"
+                                   ]
+                    },
+                    {
                         "name":  "roblox-brain-design",
                         "description":  "Skills from github.com/TabooHarmony/roblox-brain",
                         "source":  {
