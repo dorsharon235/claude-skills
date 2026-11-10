@@ -52,10 +52,10 @@ Then install any of these, or pick them from the `/plugin` menu:
 | hallmark | [nutlope/hallmark](https://github.com/nutlope/hallmark) | hallmark |
 | genny | [ogomez92/genny](https://github.com/ogomez92/genny) | genny |
 | impeccable | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | impeccable |
-| rossark-motion-skill | [rossark0/rossark-motion-skill](https://github.com/rossark0/rossark-motion-skill) | system32 |
+| rossark-motion-skill | [rossark0/rossark-motion-skill](https://github.com/rossark0/rossark-motion-skill) | whatsapp |
 | roblox-brain-design | [TabooHarmony/roblox-brain](https://github.com/TabooHarmony/roblox-brain) | roblox-analytics, roblox-game-design, roblox-growth-design, roblox-monetization, roblox-player-psychology |
 | roblox-brain-gameplay | [TabooHarmony/roblox-brain](https://github.com/TabooHarmony/roblox-brain) | roblox-animation-vfx, roblox-building, roblox-camera, roblox-gui, roblox-input, roblox-lighting, roblox-localization, roblox-npc-ai |
 | roblox-brain-core | [TabooHarmony/roblox-brain](https://github.com/TabooHarmony/roblox-brain) | roblox-architecture, roblox-collaboration-mode, roblox-data, roblox-luau-core, roblox-luau-patterns, roblox-luau-types, roblox-performance, roblox-security, roblox-server-data |
 | roblox-brain-tools | [TabooHarmony/roblox-brain](https://github.com/TabooHarmony/roblox-brain) | roblox-cloud, roblox-publish-checklist, roblox-studio-mcp, roblox-tooling |
-| video-shotcraft | [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) | system32 |
-| anatomy | [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | system32 |
+| video-shotcraft | [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) | whatsapp |
+| anatomy | [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | whatsapp |
