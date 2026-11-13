@@ -43,7 +43,7 @@ Then install any of these, or pick them from the `/plugin` menu:
 | unslop | [heydamir/unslop](https://github.com/heydamir/unslop) | unslop |
 | hyperframes-blocks | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | canopy-part-title, code-slice-hero, cuboid-carousel, frost-sequence-camera-orbit, glass-shard-title, orbit-card, wireframe-portal-title |
 | hyperframes-skills-classic | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | embedded-captions, faceless-explainer, general-video, hyperframes-animation, hyperframes-audio, hyperframes-core, hyperframes-creative, hyperframes-keyframes, hyperframes-studio, motion-graphics, music-to-video, product-launch-video, pr-to-video, talking-head-recut |
-| hyperframes-skills | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | figma, hyperframes, hyperframes-cli, hyperframes-registry, media-use, remotion-to-hyperframes, slideshow |
+| hyperframes-skills | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | figma, hyperframes, hyperframes-cli, hyperframes-registry, media-use, remotion-to-hyperframes, reverse-any-video, slideshow, style-sampling |
 | brag | [latent-spaces/brag](https://github.com/latent-spaces/brag) | brag, brag-slim |
 | taste-skill-classic-e04409a | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | brandkit, brutalist-skill, gpt-tasteskill, imagegen-frontend-mobile, imagegen-frontend-web, image-to-code-skill, minimalist-skill, output-skill, redesign-skill, soft-skill, stitch-skill, taste-skill-v1 |
 | taste-skill | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | taste-skill |
@@ -52,10 +52,10 @@ Then install any of these, or pick them from the `/plugin` menu:
 | hallmark | [nutlope/hallmark](https://github.com/nutlope/hallmark) | hallmark |
 | genny | [ogomez92/genny](https://github.com/ogomez92/genny) | genny |
 | impeccable | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | impeccable |
-| rossark-motion-skill | [rossark0/rossark-motion-skill](https://github.com/rossark0/rossark-motion-skill) | system32 |
+| rossark-motion-skill | [rossark0/rossark-motion-skill](https://github.com/rossark0/rossark-motion-skill) | whatsapp |
 | roblox-brain-design | [TabooHarmony/roblox-brain](https://github.com/TabooHarmony/roblox-brain) | roblox-analytics, roblox-game-design, roblox-growth-design, roblox-monetization, roblox-player-psychology |
 | roblox-brain-gameplay | [TabooHarmony/roblox-brain](https://github.com/TabooHarmony/roblox-brain) | roblox-animation-vfx, roblox-building, roblox-camera, roblox-gui, roblox-input, roblox-lighting, roblox-localization, roblox-npc-ai |
 | roblox-brain-core | [TabooHarmony/roblox-brain](https://github.com/TabooHarmony/roblox-brain) | roblox-architecture, roblox-collaboration-mode, roblox-data, roblox-luau-core, roblox-luau-patterns, roblox-luau-types, roblox-performance, roblox-security, roblox-server-data |
 | roblox-brain-tools | [TabooHarmony/roblox-brain](https://github.com/TabooHarmony/roblox-brain) | roblox-cloud, roblox-publish-checklist, roblox-studio-mcp, roblox-tooling |
-| video-shotcraft | [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) | system32 |
-| anatomy | [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | system32 |
+| video-shotcraft | [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) | whatsapp |
+| anatomy | [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | whatsapp |

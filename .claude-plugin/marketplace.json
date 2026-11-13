@@ -135,7 +135,9 @@
                                        "./hyperframes-registry",
                                        "./media-use",
                                        "./remotion-to-hyperframes",
-                                       "./slideshow"
+                                       "./reverse-any-video",
+                                       "./slideshow",
+                                       "./style-sampling"
                                    ]
                     },
                     {
