@@ -207,6 +207,19 @@
                                    ]
                     },
                     {
+                        "name":  "claude-add-sound-skill-classic",
+                        "description":  "Earlier skills from github.com/Mxx0b10/claude-add-sound-skill (version e613679, since removed by the author)",
+                        "source":  {
+                                       "source":  "url",
+                                       "url":  "https://github.com/Mxx0b10/claude-add-sound-skill.git",
+                                       "sha":  "e613679893f0d136620c7e655d920fcf8264f05f"
+                                   },
+                        "strict":  false,
+                        "skills":  [
+                                       "./"
+                                   ]
+                    },
+                    {
                         "name":  "roblox-suite",
                         "description":  "Skills from github.com/nonlooped/roblox-suite",
                         "source":  {
