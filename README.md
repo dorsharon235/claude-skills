@@ -22,7 +22,7 @@ Then install any of these, or pick them from the `/plugin` menu:
 /plugin install taste-skill-classic-e04409a@dor-sharon
 /plugin install taste-skill@dor-sharon
 /plugin install taste-skill-classic-b9ca2fd@dor-sharon
-/plugin install claude-add-sound-skill-classic@dor-sharon
+/plugin install claude-add-sound-skill@dor-sharon
 /plugin install roblox-suite@dor-sharon
 /plugin install hallmark@dor-sharon
 /plugin install genny@dor-sharon
@@ -49,15 +49,15 @@ Then install any of these, or pick them from the `/plugin` menu:
 | taste-skill-classic-e04409a | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | brandkit, brutalist-skill, gpt-tasteskill, imagegen-frontend-mobile, imagegen-frontend-web, image-to-code-skill, minimalist-skill, output-skill, redesign-skill, soft-skill, stitch-skill, taste-skill-v1 |
 | taste-skill | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | taste-skill |
 | taste-skill-classic-b9ca2fd | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | taste-skill-v2-experimental |
-| claude-add-sound-skill-classic | [Mxx0b10/claude-add-sound-skill](https://github.com/Mxx0b10/claude-add-sound-skill) | skills-guide |
+| claude-add-sound-skill | [Mxx0b10/claude-add-sound-skill](https://github.com/Mxx0b10/claude-add-sound-skill) | data |
 | roblox-suite | [nonlooped/roblox-suite](https://github.com/nonlooped/roblox-suite) | roblox, roblox-animation, roblox-audio, roblox-core, roblox-datastores, roblox-gamepasses, roblox-mcp, roblox-networking, roblox-npcs, roblox-open-cloud, roblox-physics, roblox-rojo, roblox-teleport, roblox-testing, roblox-user-interfaces, roblox-vfx |
 | hallmark | [nutlope/hallmark](https://github.com/nutlope/hallmark) | hallmark |
 | genny | [ogomez92/genny](https://github.com/ogomez92/genny) | genny |
 | impeccable | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | impeccable |
-| rossark-motion-skill | [rossark0/rossark-motion-skill](https://github.com/rossark0/rossark-motion-skill) | skills-guide |
+| rossark-motion-skill | [rossark0/rossark-motion-skill](https://github.com/rossark0/rossark-motion-skill) | data |
 | roblox-brain-design | [TabooHarmony/roblox-brain](https://github.com/TabooHarmony/roblox-brain) | roblox-analytics, roblox-game-design, roblox-growth-design, roblox-monetization, roblox-player-psychology |
 | roblox-brain-gameplay | [TabooHarmony/roblox-brain](https://github.com/TabooHarmony/roblox-brain) | roblox-animation-vfx, roblox-building, roblox-camera, roblox-gui, roblox-input, roblox-lighting, roblox-localization, roblox-npc-ai |
 | roblox-brain-core | [TabooHarmony/roblox-brain](https://github.com/TabooHarmony/roblox-brain) | roblox-architecture, roblox-collaboration-mode, roblox-data, roblox-luau-core, roblox-luau-patterns, roblox-luau-types, roblox-performance, roblox-security, roblox-server-data |
 | roblox-brain-tools | [TabooHarmony/roblox-brain](https://github.com/TabooHarmony/roblox-brain) | roblox-cloud, roblox-publish-checklist, roblox-studio-mcp, roblox-tooling |
-| video-shotcraft | [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) | skills-guide |
-| anatomy | [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | skills-guide |
+| video-shotcraft | [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) | data |
+| anatomy | [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | data |

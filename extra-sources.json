@@ -77,7 +77,6 @@
   },
   "add-sound": {
     "repo": "Mxx0b10/claude-add-sound-skill",
-    "dir": "",
-    "sha": "e613679893f0d136620c7e655d920fcf8264f05f"
+    "dir": ""
   }
 }
