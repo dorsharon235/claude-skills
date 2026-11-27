@@ -207,6 +207,19 @@
                                    ]
                     },
                     {
+                        "name":  "cinematic-skill",
+                        "description":  "Skills from github.com/Moh4696/cinematic-skill",
+                        "source":  {
+                                       "source":  "git-subdir",
+                                       "url":  "https://github.com/Moh4696/cinematic-skill.git",
+                                       "path":  "skills"
+                                   },
+                        "strict":  false,
+                        "skills":  [
+                                       "./cinematic-film"
+                                   ]
+                    },
+                    {
                         "name":  "claude-add-sound-skill",
                         "description":  "Skills from github.com/Mxx0b10/claude-add-sound-skill",
                         "source":  {
