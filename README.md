@@ -40,7 +40,7 @@ Then install any of these, or pick them from the `/plugin` menu:
 | Package | Author repo | Skills |
 |---|---|---|
 | security-audit-skill | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | security-audit |
-| claude-skills | [dorsharon235/claude-skills](https://github.com/dorsharon235/claude-skills) | improve-project |
+| claude-skills | [dorsharon235/claude-skills](https://github.com/dorsharon235/claude-skills) | improve-project, perfect |
 | emilkowalski-skills | [emilkowalski/skills](https://github.com/emilkowalski/skills) | animate, animate-expo, animation-performance, animation-vocabulary, apple-design, ask-sonner, break-ui, emil-design-eng, find-animation-opportunities, improve-animations, mobile-native, pick-ui-library, prototype, review-animations, write-swift |
 | unslop | [heydamir/unslop](https://github.com/heydamir/unslop) | unslop |
 | hyperframes-blocks | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | canopy-part-title, code-slice-hero, cuboid-carousel, frost-sequence-camera-orbit, glass-shard-title, orbit-card, wireframe-portal-title |

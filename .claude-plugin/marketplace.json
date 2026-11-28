@@ -30,7 +30,8 @@
                                    },
                         "strict":  false,
                         "skills":  [
-                                       "./improve-project"
+                                       "./improve-project",
+                                       "./perfect"
                                    ]
                     },
                     {
