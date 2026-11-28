@@ -127,9 +127,10 @@ def main():
     for r in uniq:
         counts[r["group"]] = counts.get(r["group"], 0) + 1
     print(f"# Installed skills: {len(uniq)} ({', '.join(f'{k} {v}' for k, v in counts.items())})\n")
-    print("| group | call | package | what it does |\n|---|---|---|---|")
+    wp = "--paths" in args  # extra column: the skill's folder (used by /perfect to read each SKILL.md)
+    print("| group | call | package | what it does |" + (" path |" if wp else "") + "\n|---|---|---|---|" + ("---|" if wp else ""))
     for r in uniq:
-        print(f"| {r['group']} | `{r['call']}` | {r['package']} | {r['desc'][:160].replace('|', '/')} |")
+        print(f"| {r['group']} | `{r['call']}` | {r['package']} | {r['desc'][:160].replace('|', '/')} |" + (f" {r.get('path', '')} |" if wp else ""))
 
 
 if __name__ == "__main__":
